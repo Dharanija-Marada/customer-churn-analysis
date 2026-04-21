@@ -17,13 +17,13 @@ This project analyzes customer churn behavior to identify key factors influencin
 * High monthly charges increase churn
 * Top reasons: competitor pricing & service issues
 
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
-## Files Included
 
-* churn.csv
-* analysis.ipynb
-* Customer_Churn_Analysis.pbix
+## Author
+
+MARADA DHARANIJA
 
